@@ -1,0 +1,4 @@
+---
+remotes:
+  primary: git@github.com:destructuring/helpers
+  secondary: git@bitbucket.org:destructuring/helpers
