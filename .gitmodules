@@ -1,10 +1,10 @@
 [submodule "jason"]
-	path = jason
+	path = sh 
 	url = git@github.com:destructuring/jason
 [submodule "tvdinner"]
-	path = tvdinner
+	path = tvd
 	url = git@github.com:destructuring/tvdinner
-[submodule "rb"]
+[submodule "rb-helper"]
 	path = rb
 	url = git@github.com:destructuring/rb-helper
 [submodule "bump"]
