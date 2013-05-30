@@ -7,3 +7,6 @@
 [submodule "rb"]
 	path = rb
 	url = git@github.com:destructuring/rb-helper
+[submodule "bump"]
+	path = bump
+	url = git@github.com:destructuring/mixin-bump
